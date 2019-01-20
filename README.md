@@ -4,7 +4,7 @@ The data and code in this repository allows users to generate figures appearing 
 
 Code was written in R 3.2.4 and Python 2.7.
 
-Users of these data should cite Jean, Burke, et al. (2016). If you find an error or have a question, please submit an issue.
+
 
 ## Description of folders
 
@@ -136,24 +136,4 @@ To generate Figure 3, the user needs to run
 4. get_image_download_locations.py
 5. (download images)
 6. extract_features.py
-7. [Figure 3.ipynb](https://github.com/nealjean/predicting-poverty/blob/master/figures/Figure%203.ipynb)
-
-To generate Figure 4, the user needs to run
-
-1. DownloadPublicData.R
-2. ProcessSurveyData.R
-3. save_survey_data.py
-4. get_image_download_locations.py
-5. (download images)
-6. extract_features.py
-7. [Figure 4.ipynb](https://github.com/nealjean/predicting-poverty/blob/master/figures/Figure%204.ipynb)
-
-To generate Figure 5, the user needs to run
-
-1. DownloadPublicData.R
-2. ProcessSurveyData.R
-3. save_survey_data.py
-4. get_image_download_locations.py
-5. (download images)
-6. extract_features.py
-7. [Figure 5.ipynb](https://github.com/nealjean/predicting-poverty/blob/master/figures/Figure%205.ipynb)
+7. [Figure 3.ipyn
